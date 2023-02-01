@@ -4,10 +4,8 @@ The program first scrapes first 15 pages of search results and store the followi
 
 Part 2 
 
-Reads URL from data.csv and scrapes through each product page the following details: 1 Manufacturer 2 ASIN 3 Description
+Reads URL from data.csv and scrapes through each product page the following details: 1 Manufacturer 2 ASIN 3 Description and stores in product.csv
 
-and stores in product.csv
-
-Note: Multiple paragraphs of Description is stored By concatenating Note: Some products didn't specify Manufacturer and description Such fields are left empty
+Note: Multiple paragraphs of Description is stored By concatenating Note: Some products didn't specify Manufacturer and description. Such fields are left empty
 
 The attached files contain code as well as output files. A total of 223 products information has been retrieved# Analystt.ai
