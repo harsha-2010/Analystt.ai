@@ -21,6 +21,4 @@ With the Product URL received in the above case, hit each URL, and add below ite
 Need to hit around 200 product URL’s and fetch various information.
 The entire data needs to be exported in a csv format
 
-Note: Multiple paragraphs of Description is stored By concatenating Note: Some products didn't specify Manufacturer and description. Such fields are left empty
-
-The attached files contain code as well as output files. A total of 223 products information has been retrieved# Analystt.ai
+Note: Multiple paragraphs of Description is stored By concatenating Note: Some products didn't specify Manufacturer and description. Such fields are left empty. The attached files contain code as well as output files. A total of 223 products information has been retrieved# Analystt.ai
