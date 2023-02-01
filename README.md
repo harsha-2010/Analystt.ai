@@ -1,10 +1,25 @@
 Part 1
 
-The program first scrapes first 15 pages of search results and store the following: 1 Product URL 2 Product Name 3 Price 4 Rating 5 Reviews into data.csv
+In this assignment you are required to scrape all products from this URL:
+https://www.amazon.in/s?k=bags&crid=2M096C61O4MLT&qid=1653308124&sprefix=ba%2Caps%2
+C283&ref=sr_pg_1
+Need to scrape atleast 20 pages of product listing pages
+Items to scrape
+• Product URL
+• Product Name
+• Product Price
+• Rating
+• Number of reviews
 
 Part 2 
 
-Reads URL from data.csv and scrapes through each product page the following details: 1 Manufacturer 2 ASIN 3 Description and stores in product.csv
+With the Product URL received in the above case, hit each URL, and add below items:
+• Description
+• ASIN
+• Product Description
+• Manufacturer
+Need to hit around 200 product URL’s and fetch various information.
+The entire data needs to be exported in a csv format
 
 Note: Multiple paragraphs of Description is stored By concatenating Note: Some products didn't specify Manufacturer and description. Such fields are left empty
 
